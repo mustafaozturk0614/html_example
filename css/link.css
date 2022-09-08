@@ -1,0 +1,70 @@
+ul {
+
+    list-style: none;
+
+
+}
+
+
+a {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+
+
+}
+
+a:hover {
+
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+div {
+
+    height: 600px;
+    margin-top: 50px;
+
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-size: 100px;
+
+
+}
+
+#div1 {
+    background-color: blueviolet;
+    background-image: url("../img/isg3.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+
+
+}
+
+
+#div2 {
+
+    background-color: darkgreen;
+    background-image: url(../img/isg1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#div3 {
+
+    background-color: red;
+    background-image: url(../img/isg3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+}
